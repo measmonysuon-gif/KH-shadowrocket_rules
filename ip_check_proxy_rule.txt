@@ -1,3 +1,4 @@
+
 #Vizio
 DOMAIN-SUFFIX,smartcasttv.com
 DOMAIN-SUFFIX,onetrust.com
@@ -7,6 +8,11 @@ DOMAIN-SUFFIX,dewrain.site
 DOMAIN-SUFFIX,vizio.com
 DOMAIN-SUFFIX,braze.com
 #IP Checking 
+DOMAIN-SUFFIX,amp-endpoint2.com
+DOMAIN-SUFFIX,amp-endpoint3.com
+DOMAIN-SUFFIX,dnsleaktest.com
+USER-AGENT,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/129 Version/11.1.1 Safari/605.1.15"
+DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,webhostingsecretrevealed.net
 DOMAIN-SUFFIX,whatismyipaddress.com
@@ -16,6 +22,8 @@ DOMAIN-SUFFIX,ipinfo.info
 DOMAIN-SUFFIX,ipapi.net
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,ipinfo.info
 DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,who.is
@@ -46,15 +54,8 @@ IP-CIDR,119.29.29.29/32,no-resolve
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kwaizt.com
-#Tiktok
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,ttwstatic.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokcdn.com
 
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Cronet Mobile/15E148 Safari/604.1"
-
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Cronet Mobile/15E148 Safari/604.1" 
 
 DOMAIN-SUFFIX,supersonicads.com
